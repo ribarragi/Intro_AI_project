@@ -7,7 +7,7 @@ This project is done collaboratively with Mahrukh Khan and Elaine Zhang
 
 
 Tweets were fetched with two different queries:
-**1. Tweets containing the terms East Palestine AND (tran derailment OR Norfolk), from February 10 to March 15: 447k tweets**
+**1. Tweets containing the terms East Palestine AND (tran derailment OR Norfolk), from February 1 to March 15: 447k tweets**
 
 The file DatasetOne.csv contains all these data (1.05 Gb)
 
