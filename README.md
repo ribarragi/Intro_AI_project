@@ -3,7 +3,8 @@
 This is the repository to our final Intro to AI project:
 Parsing tweets about the train derailment in East Palestine, Ohio, to ...
 
-This project is done collaboratively with Mahrukh Khan and Elaine Zhang
+Team Members:   
+Elaine Zhang (yizhang5), Mahrukh Khan (mahrukhk), Ricardo Ibarra-Gil (ribarrag)  
 
 
 Tweets were fetched with two different queries:
